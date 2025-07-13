@@ -1,6 +1,6 @@
 
 <p align=center>
-    <img src="./public/symbols/logo.png" alt="Logo" width="200"/>
+    <img src="./public/readme/logo.png" alt="Logo" width="200"/>
 </p>
 # 💹 Stonks 
 
@@ -9,8 +9,8 @@
 Launch your multiplier into the volatile market, bounce through bullish and bearish nodes, and collect gains before you get liquidated.  
 *Play Trade smart. Avoid the rug. 📉📈*
 <p align=center>
-    <img src="./public/symbols/character.png" width=20%>
-    <img src="./public/symbols/character1.png" width=20%>
+    <img src="./public/readme/bull.png" width=20%>
+    <img src="./public/readme/bear.png" width=20%>
 </p>
 
 ---
@@ -25,7 +25,7 @@ Launch your multiplier into the volatile market, bounce through bullish and bear
   Step into the volatile world of trading, where a bullish green bull and a bearish red bear represent market sentiment. Each round simulates unpredictable price action, with your multiplier bouncing between gains and losses.
 
 <p align=center>
-    <img src="./public/assets/main/demo_main.png" alt="Logo" width="100%"/>
+    <img src="./public/readme/demo_main.png" alt="Logo" width="100%"/>
 </p>
 
 - **Core Mechanics:**
@@ -44,7 +44,7 @@ Launch your multiplier into the volatile market, bounce through bullish and bear
   - On collision with a win node, your final multiplier is applied to your bet.
 
 <p align=center>
-    <img src="./public/assets/main/demo_screen.png" alt="Logo" width="100%"/>
+    <img src="./public/readme/demo_screen.png" alt="Logo" width="100%"/>
 </p>
 
 - **Round Flow:**

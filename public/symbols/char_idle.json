@@ -1,0 +1,18 @@
+{
+  "name": "char_idle",
+  "frame_width": 512,
+  "frame_height": 512,
+  "frame_count": 8,
+  "frame_duration": 100,
+  "loop": true,
+  "frames": [
+    { "x": 0, "y": 0 },
+    { "x": 512, "y": 0 },
+    { "x": 1024, "y": 0 },
+    { "x": 1536, "y": 0 },
+    { "x": 2048, "y": 0 },
+    { "x": 2560, "y": 0 },
+    { "x": 3072, "y": 0 },
+    { "x": 3584, "y": 0 }
+  ]
+}
